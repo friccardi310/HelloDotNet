@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\HelloDotNetProject\bin\Debug\net6.0\HelloDotNetProject.exe
+C:\Users\Administrator\Documents\HelloDotNetProject\bin\Debug\net6.0\HelloDotNetProject.deps.json
+C:\Users\Administrator\Documents\HelloDotNetProject\bin\Debug\net6.0\HelloDotNetProject.runtimeconfig.json
+C:\Users\Administrator\Documents\HelloDotNetProject\bin\Debug\net6.0\HelloDotNetProject.dll
+C:\Users\Administrator\Documents\HelloDotNetProject\bin\Debug\net6.0\HelloDotNetProject.pdb
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.AssemblyInfo.cs
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.dll
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\refint\HelloDotNetProject.dll
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.pdb
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\HelloDotNetProject.genruntimeconfig.cache
+C:\Users\Administrator\Documents\HelloDotNetProject\obj\Debug\net6.0\ref\HelloDotNetProject.dll
